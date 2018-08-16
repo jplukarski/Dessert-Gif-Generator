@@ -1,0 +1,28 @@
+#header{
+    margin-left: 10%;
+    margin-right: 10%; 
+    background-color: #fdf1bb;
+    border-style: solid;
+    opacity: .9;
+    
+}
+
+#content{
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: pink;
+    border-style: solid;
+    opacity: .9;
+}
+
+body {
+    background-image: URL("./twitter-background.jpeg");
+}
+
+
+
+@media screen and (max-width: 800px) {
+    .images{
+        max-width: 200px;
+    }
+}
